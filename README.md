@@ -6,6 +6,8 @@ A Open Source modular ant formicarium and home with simple space saving connecto
 A list of Modules that are available!
 Check the READMEs in the folders for more detailed information and dimensions
 
+Image gallery: https://imgur.com/a/OinBO6c
+
 ### Connectors
 * Connector that connects two modules
 * Connector that connects two modules but block the path
