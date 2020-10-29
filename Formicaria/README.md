@@ -1,4 +1,4 @@
-# OpenFormicarium - Formicaria
+# OpenFormicaria - Formicaria
 
 A Open Source modular ant aormicarium and home with simple space saving connectors.
 

@@ -1,4 +1,4 @@
-# OpenFormicarium - Connectors
+# OpenFormicaria - Connectors
 
 A Open Source modular ant aormicarium and home with simple space saving connectors.
 
