@@ -4,6 +4,7 @@ A Open Source modular ant aormicarium and home with simple space saving connecto
 
 ## Available modules
 A list of Modules that are available!
+Note all modules are available in CV1(Legacy) and CV2 trim.
 
 ### Portal
 A module used for founding colonies. Connect your testtube with queen and brood with the initial few workers here.
