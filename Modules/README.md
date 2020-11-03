@@ -20,3 +20,9 @@ This module servers as the first small outworld!
 ### 4xGateway
 * Attach up to 4 other attachements
 * Plexiglass for your viewing pleasure
+
+### 6xGateway
+* Attach up to 6 other attachements or things that can have two or more at the same time!
+* More space
+* Air Vents
+* Plexiglass for your viewing pleasure

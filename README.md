@@ -3,6 +3,10 @@
 A Open Source modular ant formicarium and home with simple space saving connectors.
 
 ## Updates/Changelog
+**2020.11.02**
+* Added 6xGateway
+  * More space or broader attachement to other modules!
+
 **2020.11.01**
 * Small fixes
 * Added Connector raiser for CV1 and CV2. With that, you can connect modules like the Portal to a formicarium without it floating! 
@@ -45,9 +49,7 @@ Note that all CV2 connectors **have** to be printed in TPU or any flexible mater
 ### Modules (Both availabe in CV1 and CV2 versions)
 * Portal - Module with feeding and air ports, first small outworld with 4 connection ports
 * 4xGateway - A small 4x connection port gateway
-
-#### Module Roadmap
-* 6xGateway
+* 6xGateway - More space or broader attachement to other modules!
 
 ### Formicarium (Both availabe in CV1 and CV2 versions)
 * Formicarium Size S Template
