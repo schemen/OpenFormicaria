@@ -16,6 +16,11 @@ A variation of tube connectors. The test-/tubes go over the connector, not in.
 
 IMPORTANT! Do not print this with PLA, use a flexible filament.
 
+### Tube Connectors on an 90° angle for 10mm, 12mm and 14mm inner circumference
+A variation of tube connectors. The test-/tubes go over the connector, not in.
+
+IMPORTANT! Do not print this with PLA, use a flexible filament.
+
 ### Endcap if nothing gets attached to a connection endpoint
 A bit nicer looking than a block connector but cannot be used to connect two modules
 

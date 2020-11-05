@@ -1,5 +1,8 @@
 # Updates/Changelog
 **2020.11.05**
+* Added Tube connectors with a 90° angle. Only available for CV2 for now.
+
+**2020.11.05**
 * Changed formicaria humidity holes into funnel shaped holes to improve printing
   * Because the hole is in shape of a funnel it can be a lot tighter on the top level. The holes facing the ants are now 0.4mmx0.4mm big!
 
