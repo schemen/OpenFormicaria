@@ -3,6 +3,10 @@
 A Open Source modular ant formicarium and home with simple space saving connectors.
 
 ## Updates/Changelog
+**2020.11.05**
+* Changed formicaria humidity holes into funnel shaped holes to improve printing
+  * Because the hole is in shape of a funnel it can be a lot tighter on the top level. The holes facing the ants are now 0.4mmx0.4mm big!
+
 **2020.11.02**
 * Added 6xGateway
   * More space or broader attachement to other modules!
@@ -23,7 +27,8 @@ A Open Source modular ant formicarium and home with simple space saving connecto
 * Added Size M Formicarizm with a Lasius inspired filling! Download or check the Zip file
 
 ## Features
-Check the READMEs in the folders for more detailed information and dimensions
+Check the READMEs in the folders for more detailed information.
+All modules are based on a 35mmx35mm base grid for ability to interconnect all of them (At least connector facing parts). 4xGateway is 35x35mm, 6xGateway is 35x70mm. All of the modules are 20mm high.
 
 Image gallery: https://imgur.com/a/OinBO6c
 
@@ -52,11 +57,11 @@ Note that all CV2 connectors **have** to be printed in TPU or any flexible mater
 * 6xGateway - More space or broader attachement to other modules!
 
 ### Formicarium (Both availabe in CV1 and CV2 versions)
-* Formicarium Size S Template
+* Formicarium Size S and M Template
   * Lasius style interior
 
 #### Formicarium Roadmap
-* Size M and L, maybe XL?
+* Size L, maybe XL?
 * More interior
 
 ## Printing recommendation
@@ -66,6 +71,7 @@ Note that all CV2 connectors **have** to be printed in TPU or any flexible mater
 * CV2 Connectors have to be printed in TPU/Flex
 * 0.2mm layer hight is sufficient for all files
 * 15% infill is sufficient
+* When printing a formicarium, I do recommend using a glue stick where the holes will be printed to make sure it those stick cleanly.
 
 ## Starting Out
 
