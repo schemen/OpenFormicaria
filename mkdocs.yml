@@ -1,0 +1,14 @@
+site_name: OpenFormicaria
+nav:
+    - Home: index.md
+    - Available Parts: parts.md
+    - About: about.md
+    - "User Guide":
+       - Getting Started: getting_started.md
+       - Connectors: connectors.md
+       - Modules: modules.md
+       - Formicaria: formicaria.md
+    - Contribute: 
+        - How to contribute: contrib.md
+        - Measurements: measurements.md
+theme: readthedocs

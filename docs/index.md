@@ -1,8 +1,6 @@
-# OpenFormicaria
+# Welcome to OpenFormicaria
 
-A Open Source modular ant formicarium and home with simple space saving connectors.
-
-**Documentation:** [https://of.schemen.me](https://of.schemen.me)
+This is a open source modular ant formicarium and home with simple space saving connectors.
 
 ## Features overview
 
@@ -18,4 +16,12 @@ All modules are based on a 35mmx35mm base grid for ability to interconnect all o
 * Portal module with feeding access for a first small outworld to explore and expand
 * 4x or 6x Gateway modules to expand the farm
 
-![Example Farm](docs/img/1.jpg)
+![Example Farm](img/1.jpg)
+
+## Reading On
+Check out [what kind of parts](parts.md) OF has available.
+
+Do you want to go ahead and print your ant nest or a starting base? 
+Continue reading with [Getting Started](getting_started.md).
+
+If you want to contribute, add more parts and modules or want to improve existing ones, please have a look at [How to contribute](contrib.md)
