@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>How to contribute - OpenFormicaria</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "How to contribute";
+    var mkdocs_page_input_path = "contrib.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> OpenFormicaria</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../parts/">Available Parts</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../about/">About</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">User Guide</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../getting_started/">Getting Started</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../connectors/">Connectors</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../modules/">Modules</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../formicaria/">Formicaria</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Contribute</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">How to contribute</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#base-structural-blocks-for-any-modules">Base structural blocks for any modules</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#some-other-specs-to-modules">Some other specs to modules</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#connector">Connector</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#formicaria">Formicaria</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="" href="../measurements.md">Measurements</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">OpenFormicaria</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Contribute &raquo;</li>
+        
+      
+    
+    <li>How to contribute</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="how-to-expand-openformicaria">How to expand OpenFormicaria</h1>
+<p>There are several processes and standards within this project, so let's have a look at them.</p>
+<p>Generally, I <strong>recommend</strong> using a existing CAD instance as reference and work with CV2 connector style.</p>
+<h2 id="base-structural-blocks-for-any-modules">Base structural blocks for any modules</h2>
+<p>A base block has the size of <strong>35mmx35mmx20mm</strong>. The 4xGateway has essentially those measurments. This square is essentially the base block size for connenctor facing faces.</p>
+<p>You can see this with the the 6xGateway. On a side, they have two connector placements, this side has to be 70mm wide to fit both of them. A face that does not intend to have connectors, you are free to move out of this size. The example here would be the Portal. The face with the feeder holes is a bit outside of this box.</p>
+<h3 id="some-other-specs-to-modules">Some other specs to modules</h3>
+<ul>
+<li>The glass cut out is 3mm deep</li>
+<li>The m3 screw holes have a radius of 1.4mm</li>
+<li>The ant "cutout" is recommended to be around 15mm deep. This leads to have a 2mm floor with 20mm total height. </li>
+<li>To hold the glass I've used a 1mm wide ledge sofar</li>
+</ul>
+<h2 id="connector">Connector</h2>
+<p>Please have a look at the folder <code>Measurements</code> with all the detailing measurements on how the connector looks like. </p>
+<p>A connector is set up with the following parts:</p>
+<ul>
+<li>Female Connector is on all Modules. Be aware in the difference of CV1 and CV2. Have a look at the image <code>Connector Cut Measurements</code>.</li>
+<li>The hole cut through has a radius of <strong>5mm</strong> and is centered.</li>
+<li>CV2 Female has a Hill that is in the center. Check <code>ConnectorV2_Hill</code> for it's specs</li>
+<li>Male connectors are standalone and are used in between to connect all modules. The CV2 version as a grove and a rail so that the Hill can slide and lock. </li>
+<li>Check out the images <code>ConnectorV2_Rail</code> and "<code>ConnectorV2_Groove</code> for the specs</li>
+</ul>
+<h2 id="formicaria">Formicaria</h2>
+<p>The formicaria are created in two steps:
+1) A template is created and maintained for each size. This template is empty and does not have any ant digging site, just free space. This gets exported as STL.
+2) In Photoshop or any editor of your preference a black/white plan of the ant pathways is drawn. This then get imported in 3D Builder and placed into the template, combining the two.</p>
+<p>This approach allows to create many different inserts for the formicaria for different ant species. You can of course further customize the templates if you wish.</p>
+<p>Have a look at <code>Formicaria/Inserts/</code> to find PSD templates and already generated ant styles.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../formicaria/" class="btn btn-neutral" title="Formicaria"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../formicaria/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
