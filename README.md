@@ -3,6 +3,7 @@
 A Open Source modular ant formicarium and home with simple space saving connectors.
 
 **Documentation:** [https://of.schemen.me](https://of.schemen.me)
+**How to Contribute:** [https://of.schemen.me/contrib/](https://of.schemen.me/contrib/)
 
 ## Features overview
 

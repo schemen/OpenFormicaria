@@ -1,4 +1,7 @@
 # Updates/Changelog
+**2020.11.08**
+* Started documentation at https://of.schemen.me
+
 **2020.11.05**
 * Added Tube connectors with a 90° angle. Only available for CV2 for now.
 
@@ -20,7 +23,6 @@
 * Updated the Portal Lid to accomodate the borehole
 * Introduce the Connector Version 2!
   * Improved design, now also able to prevent escapee ants when changing connectors or modules!
-
 
 **2020.10.30**
 * Added Size M Formicarizm with a Lasius inspired filling! Download or check the Zip file
