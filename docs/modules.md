@@ -1,6 +1,5 @@
 # OpenFormicaria - Modules
 
-
 ## Available modules
 A list of Modules that are available!
 Note all modules are available in CV1(Legacy) and CV2 trim.
@@ -17,8 +16,8 @@ Use a color that is relatively contrastring to your ants so you can see them.
 ## Portal
 ![CV2](img/10.jpg)
 
-A module used for founding colonies. Connect your test tube with queen and brood with the initial few workers here.
-This module servers as the first small outworld!
+A module used for founding colonies. Connect your test tube with the queen and brood and the initial few workers here.
+This module serves as the first small outworld!
 
 Don't forget to print the cover and feeder lids.
 

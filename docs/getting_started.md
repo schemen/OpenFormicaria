@@ -27,7 +27,7 @@ You can check out the parts available:
 ### The Base Kit - A initial home
 ![Basekit](img/13.jpg)
 
-If you have a test tube setup and you think your ants are ready for their first scavenging outside of it but still to small for a proper outworld, you can use a Portal! This allows you to connect several other modules and connectors to it.
+If you have a test tube setup and you think your ants are ready for their first scavenging outside of it, while still to small for a proper outworld, you can use a Portal! This allows you to connect several other modules and connectors to it.
 
 Here is a list of the items you should print for a base kit with a Portal. Once you have that, you can expand as needed!
 Note that I do recommend printing all CV2 if you have a flexible filament available.
