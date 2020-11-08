@@ -19,8 +19,6 @@ All modules are based on a 35mmx35mm base grid for ability to interconnect all o
 ![Example Farm](img/1.jpg)
 
 ## Reading On
-Check out [what kind of parts](parts.md) OF has available.
-
 Do you want to go ahead and print your ant nest or a starting base? 
 Continue reading with [Getting Started](getting_started.md).
 

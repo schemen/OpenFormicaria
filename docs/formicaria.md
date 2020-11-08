@@ -1,6 +1,5 @@
 # OpenFormicaria - Formicaria
 
-A Open Source modular ant aormicarium and home with simple space saving connectors.
 
 ## General Features
 * Modular - any type of insert can be made for specific ant requirements and preferences
@@ -10,19 +9,31 @@ A Open Source modular ant aormicarium and home with simple space saving connecto
 * Plexiglass can be press fitted or via screws
 * All Formicaria are available in CV1(Legacy) and CV2 trim.
 
-## Available Formicaria
-A list of Formicaria that are available!
+Don't forget to print the basin and lid for your nest!
 
+## Formicaria Size S
+Small size formicarium, 70mm x 80mm x 20mm.
 
-### Size S
-* Template is available (PSD and Empty Formicarium to fill yourself)
-* Lasius nest inspired insert
-* Print with supports enabled
+### Template Size S
+Do it yourself with Photoshop and Microsoft 3D Builder!
 
-### Size M
-* Template is available (PSD and Empty Formicarium to fill yourself)
-* Lasius nest inspired insert
-* Print with supports enabled
+### Lasius S
+Lasius nest inspired insert
 
-### Other sizes
+### Plexiglass sizing
+The glass cutout is 62mm x 62mm. If you want, you can use a small drill bit that fits M3 screws.
+
+## Formicaria Size M
+Medium size formicarium, 105mm x 115mm x 20mm.
+
+### Template Size M
+Do it yourself with Photoshop and Microsoft 3D Builder!
+
+### Lasius M
+Lasius nest inspired insert
+
+### Plexiglass sizing
+The glass cutout is 97mm x 97mm. If you want, you can use a small drill bit that fits M3 screws.
+
+## Other sizes
 * Coming soon!

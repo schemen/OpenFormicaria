@@ -15,9 +15,18 @@ With CV2 you can seemlessly switch connectors that are in use, for example allow
 
 Note that all CV2 connectors **have** to be printed in TPU or any flexible material.
 
+## Part list
+You can check out the parts available:
+
+* [Connectors](connectors.md)
+* [Modules](modules.md)
+* [Formicaria](formicaria.md)
+
 ## Set suggestions and Ideas
 
 ### The Base Kit - A initial home
+![Basekit](img/13.jpg)
+
 If you have a test tube setup and you think your ants are ready for their first scavenging outside of it but still to small for a proper outworld, you can use a Portal! This allows you to connect several other modules and connectors to it.
 
 Here is a list of the items you should print for a base kit with a Portal. Once you have that, you can expand as needed!
@@ -34,6 +43,8 @@ Note that I do recommend printing all CV2 if you have a flexible filament availa
 
 
 ### A first Formicarium - Expanding your colony
+![Fromicarium](img/14.jpg)
+
 Once the colony has outgrown the test tube setup and needs a proper nest you can start with a S sized nest that fits your colony! 
 You can connect your Formicarium directly to the portal or use tubing to connect to it.
 
@@ -41,7 +52,6 @@ Generally, I recommend printing the base kit anyway and expand from there.
 
 #### Your first Formicarium
 * 1x S Sized formicarium for your ants
-* 2x Endpoint Blocker (3x if you want to connect via tubes)
-* 1x Connector (direct connect)
-* 1x Connector blocker (direct connect)
+* 3x Endpoint Blocker (4x if you want to connect via tubes)
+* 1x Connector Raiser(direct connect)
 * 1x Tube connector (tube connection)

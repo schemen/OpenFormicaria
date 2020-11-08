@@ -3,6 +3,17 @@ There are several processes and standards within this project, so let's have a l
 
 Generally, I **recommend** using a existing CAD instance as reference and work with CV2 connector style.
 
+You can find the repository here: [Github](https://github.com/schemen/OpenFormicaria)
+
+Fork it and add your changes. 
+
+## How to PR/MR on Github
+When you have a creation you want to have added, make sure it is in the correct folder (STL exports, CAD files etc.).
+Add the documentation of your part in to `docs` folder as well.
+
+Please create PRs into the **devel** branch!
+
+
 ## Base structural blocks for any modules
 A base block has the size of **35mmx35mmx20mm**. The 4xGateway has essentially those measurments. This square is essentially the base block size for connenctor facing faces.
 
@@ -28,8 +39,10 @@ A connector is set up with the following parts:
 
 ## Formicaria
 The formicaria are created in two steps:
-1) A template is created and maintained for each size. This template is empty and does not have any ant digging site, just free space. This gets exported as STL.
-2) In Photoshop or any editor of your preference a black/white plan of the ant pathways is drawn. This then get imported in 3D Builder and placed into the template, combining the two.
+
+**1)** A template is created and maintained for each size. This template is empty and does not have any ant digging site, just free space. This gets exported as STL.
+
+**2)** In Photoshop or any editor of your preference a black/white plan of the ant pathways is drawn. This then get imported in 3D Builder and placed into the template, combining the two.
 
 This approach allows to create many different inserts for the formicaria for different ant species. You can of course further customize the templates if you wish.
 
