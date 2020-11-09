@@ -1,6 +1,6 @@
 # OpenFormicaria - Connectors
 
-The images will be for CV2 mostly, though in most cases the information is valid for both version if nont explicitly said so.
+The images will be for CV2 mostly, though in most cases the information is valid for both version, if not explicitly said so.
 
 ## Print recommendation
 ### CV2 (recommended)
@@ -37,7 +37,6 @@ A variation of tube connectors. The test-/tubes go over the connector, not in.
 ## Tube Connectors on an 90° angle for 10mm, 12mm and 14mm inner circumference
 ![CV2](img/6.jpg)
 
-
 A variation of tube connectors. The test-/tubes go over the connector, not in.
 
 IMPORTANT! Do not print this with PLA, use a flexible filament.
@@ -50,9 +49,9 @@ A bit nicer looking than a block connector but cannot be used to connect two mod
 ## Connector Raiser 
 ![CV2](img/8.jpg)
 
-This connector allows you to connect a modules like a Portal to a formicarium which is higher above due the basin. Now there is no more floating modules.
+This connector allows you to connect a modules like a Portal to a formicarium which is higher above due to the basin. Now there is no more floating modules.
 
 ## Separator (CV2 only)
 ![CV2](img/9.jpg)
 
-This "connector" allows you to separate two connected modules and block both entries. I recommend to print at least a pair of those for your setup.
+This "connector" allows you to separate two connected modules and block both entries. I recommend to print at least a pair of these for your setup.
