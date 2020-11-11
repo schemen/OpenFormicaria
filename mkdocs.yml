@@ -10,4 +10,14 @@ nav:
     - Contribute: 
         - How to contribute: contrib.md
     - License: license.md
-theme: readthedocs
+theme:
+  features:
+    - navigation.instant
+  name: material
+  palette:
+    scheme: slate
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/ladybug
+repo_url: https://github.com/schemen/OpenFormicaria
+repo_name: schemen/OpenFormicaria
