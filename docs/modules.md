@@ -10,6 +10,7 @@ All modules can be printed with:
 * 0.2mm layer height
 * 15% infill
 * PLA or any other hard material
+* The feeder lids should be printed in TPU to press in properly.
 
 Use a color that is relatively contrastring to your ants so you can see them.
 
@@ -19,7 +20,7 @@ Use a color that is relatively contrastring to your ants so you can see them.
 A module used for founding colonies. Connect your test tube with the queen and brood and the initial few workers here.
 This module serves as the first small outworld!
 
-Don't forget to print the cover and feeder lids.
+Don't forget to print the cover and feeder lids. The feeder lids should be printed in TPU to press in properly.
 
 ### Features
 * Size of 70mm x 40mm x 20mm
