@@ -47,3 +47,7 @@ The formicaria are created in two steps:
 This approach allows to create many different inserts for the formicaria for different ant species. You can of course further customize the templates if you wish.
 
 Have a look at `Formicaria/Inserts/` to find PSD templates and already generated ant styles.
+
+## Helping in other ways
+
+If you like the design and all the work that already went in, you could consider sponsoring a tea/coffe at [Buymeacoffee](https://www.buymeacoffee.com/schemen) as a motivator!

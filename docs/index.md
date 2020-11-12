@@ -23,4 +23,4 @@ All modules are based on a 35mmx35mm base grid for ability to interconnect all o
 Do you want to go ahead and print your own ant nest or a starting base?
 Continue reading with [Getting Started](getting_started.md).
 
-If you want to contribute, add more parts and modules or want to improve existing ones, please have a look at [How to contribute](contrib.md)
+If you want to contribute, add more parts and modules, want to improve existing ones or simply want to help out, please have a look at [How to contribute](contrib.md)
