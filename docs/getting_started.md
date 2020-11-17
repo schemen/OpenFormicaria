@@ -36,6 +36,7 @@ Note that I do recommend printing all CV2 if you have a flexible filament availa
 * 1x Portal
   * 2x Portal Feeder Lids
   * 1x Portal Lid
+  * 26mm x 62mm x 2mm Plexigass
 * 2x Separators (CV2 Only)
 * 3x Endpoint Blocker
 * 2x Tube connector fitting your test tube size
@@ -52,6 +53,7 @@ Generally, I recommend printing the base kit anyway and expand from there.
 
 #### Your first Formicarium
 * 1x S Sized formicarium for your ants
+  * 62mm x 62mm x 2mm Plexiglass
 * 3x Endpoint Blocker (4x if you want to connect via tubes)
 * 1x Connector Raiser(direct connect)
 * 1x Tube connector (tube connection)

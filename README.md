@@ -15,7 +15,7 @@ All modules are based on a 35mmx35mm base grid for ability to interconnect all o
 * A variety of connectors to connect modules, formicaria, tubes etc.
 * Connectors can be exchanged safely while the part is in use to prevent ant escapees.
 * Different sizes of formicaria for different colony sizes
-* Different formicaria insert styles for different ant races
+* Different formicaria insert styles for different ant species
 * Easy way to create your own custom insert!
 * Portal module with feeding access for a first small outworld to explore and expand
 * 4x or 6x Gateway modules to expand the farm
